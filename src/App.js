@@ -2,7 +2,8 @@ import './App.css';
 import React from "react";
 import Photobooth from "./components/Photobooth";
 import "./styles/global.css"
-const logoSrc = "/assets/logo/jiggleduo-logo.png";
+const logoSrc = "/assets/logo/hazel-eyes.jpg";
+
 
 function App() {
   return (
@@ -20,13 +21,13 @@ function App() {
         gap: 12,
         padding: "20px 32px"
       }}>
-        <img src={logoSrc} alt="JiggleDuo Logo" style={{ width: 50 }} />
+        <img src={logoSrc} alt="Hazel-eyes Logo" style={{ width: 50 }} />
         <h1 style={{
           fontFamily: "CantikaCute",
           color: "#8c5b4a",
           margin: 0
         }}>
-          JiggleDuo Photobooth
+          Nushka's Photobooth
         </h1>
       </div>
 

@@ -7,6 +7,7 @@ const frameOptions = [
     "/assets/frames/heart-frame-2.png",
     "/assets/frames/heart-frame-3.png",
     "/assets/frames/heart-frame-4.png",
+    "/assets/frames/star-frame1.jpg",
 ];
 
 const stickerOptions = [
